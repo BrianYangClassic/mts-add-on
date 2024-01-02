@@ -1,0 +1,10 @@
+{
+  "general": {
+		"name" : "Jerrycan",
+		"materials" : [],
+		"type" : "interactable_jerrycan"
+  },
+	"interactable" : {
+		"interactionType" : "jerrycan"
+	}
+}
